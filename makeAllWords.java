@@ -22,4 +22,7 @@ public class makeAllWords{
       }
     }
   }
+  public static void main(String[] args) {
+    System.out.println(makeAllWords(3,3));
+  }
 }
